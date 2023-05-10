@@ -11,7 +11,7 @@ wp-content/languages
 wp-content/plugins/index.php
 wp-content/themes/index.php
 wp-includes/
-index.php
+# index.php
 license.txt
 readme.html
 wp-*.php
@@ -53,3 +53,7 @@ app/public/local-xdebuginfo.php
 app/sql/local.sql
 *.hbs
 app/public/.htaccess
+app/public/wp-content/index.php
+app/public/wp-content/plugins/index.php
+app/public/wp-content/themes/index.php
+app/public/index.php
