@@ -1,0 +1,3 @@
+[08-May-2023 03:05:16 UTC] PHP Warning:  Attempt to read property "title" on null in A:\Local Sites\saint-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[17-May-2023 01:32:35 UTC] PHP Warning:  Attempt to read property "title" on null in A:\Local Sites\saint-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[17-May-2023 01:32:43 UTC] PHP Warning:  Attempt to read property "title" on null in A:\Local Sites\saint-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
