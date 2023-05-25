@@ -12,3 +12,4 @@ wp-content/themes/twenty*/
 
 # Example plugin
 wp-content/plugins/hello.php
+logs/php/error.log
